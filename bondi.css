@@ -13,8 +13,9 @@ body{
 }
 .main-btn{
   background-color: var(--pink-color);
-color:white;
- padding:0.5rem 1rem;
+    color: white;
+    padding: 1.5rem 1rem;
+    margin: 40px;
 }
 .main-btn:hover{
     color:white;
