@@ -12,10 +12,10 @@ body{
   
 }
 .main-btn{
-  background-color: var(--pink-color);
-    color: white;
-    padding: 1.5rem 1rem;
-    margin: 40px;
+   background-color: var(--pink-color);
+  color: white;
+  padding: -8.5rem 1rem;
+  margin: 30px;
 }
 .main-btn:hover{
     color:white;
@@ -74,7 +74,7 @@ body{
     width: 30%;
     position: relative;
     right: 4px;
-    top: 7px;
+    top: 0px;
 }
 
 /* start loading */
@@ -212,8 +212,8 @@ body{
 }
 /* End Footer */
 .logo{
-  position: relative;
-    right: 152px;
-    width: 400px;
+ position: relative;
+  height:  152px;
+  width: 121px;
     top: -54px;
 }
